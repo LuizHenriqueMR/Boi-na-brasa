@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+}
+#logo {
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    height: 20%;
+}
+.img-aside{
+    width: 200px;
+    
+    height: 150px;
+    border-radius: 10%;
+}
+    
+h1{
+    color: white;
+
+ 
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+a{
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: red;
+}
+.displayblock{
+    display: flex;
+
+}
+aside{
+    display: block;
+    background-color: white;
+    border: 10px solid;
+    border-color: rgb(246, 255, 0);
+}
+section{
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: brown;
+    padding: 100px;
+    border: 10px solid;
+    border-color: rgb(246, 255, 0);
+    text-align: center;
+}
+nav{
+    display: block;
+    background-color: white;
+    border: 10px solid;
+    border-color: rgb(246, 255, 0);
+}
+footer {
+    background-color: rgb(146, 90, 25);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
